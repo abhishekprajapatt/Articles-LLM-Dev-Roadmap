@@ -1,4 +1,4 @@
-# JAVA SPRING BOOT MASTERY !
+# JAVA SPRING BOOT MASTERY
 
 Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** banna hai — woh bhi **Java + Spring Boot + MySQL** ke sath, production-level application banane ke liye. Ye ek serious commitment hai, aur main tumhe ek **full expert-level roadmap** dunga — tools, frameworks, system design, testing, CI/CD, cloud, microservices, DSA, project ideas — sab part-by-part explain karunga.
 
@@ -8,27 +8,27 @@ Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** ba
 
 #### 📘 Learn Java Expert-Level
 
-* ✅ Core Java (OOPs, Collections, Multithreading, Exception Handling, I/O)
-* ✅ Java 8+ Features: Streams, Lambda, Optional, Functional Interfaces
-* ✅ Design Patterns (Factory, Builder, Singleton, Observer, Strategy, etc.)
-* ✅ JDBC, REST API (basic)
+- ✅ Core Java (OOPs, Collections, Multithreading, Exception Handling, I/O)
+- ✅ Java 8+ Features: Streams, Lambda, Optional, Functional Interfaces
+- ✅ Design Patterns (Factory, Builder, Singleton, Observer, Strategy, etc.)
+- ✅ JDBC, REST API (basic)
 
 #### 📗 Spring Boot + Ecosystem
 
-* ✅ Spring Core (IoC, DI, Beans, ApplicationContext)
-* ✅ Spring Boot (Auto Config, Starters, Profiles)
-* ✅ Spring MVC (Controllers, RestControllers, Exception Handling)
-* ✅ Spring Data JPA (Repositories, Pagination, Query Methods, Projections)
-* ✅ Spring Security (JWT, OAuth2, Role-Based Access)
-* ✅ Spring AOP (Logging, Transactions)
-* ✅ Spring Validation (JSR-303)
+- ✅ Spring Core (IoC, DI, Beans, ApplicationContext)
+- ✅ Spring Boot (Auto Config, Starters, Profiles)
+- ✅ Spring MVC (Controllers, RestControllers, Exception Handling)
+- ✅ Spring Data JPA (Repositories, Pagination, Query Methods, Projections)
+- ✅ Spring Security (JWT, OAuth2, Role-Based Access)
+- ✅ Spring AOP (Logging, Transactions)
+- ✅ Spring Validation (JSR-303)
 
 #### 📘 MySQL Mastery
 
-* ✅ Normalization, Indexes, Triggers, Stored Procedures
-* ✅ Complex Joins, Subqueries, Views
-* ✅ Query Optimization, EXPLAIN, Transactions, ACID
-* ✅ JPA → Native Queries / JPQL
+- ✅ Normalization, Indexes, Triggers, Stored Procedures
+- ✅ Complex Joins, Subqueries, Views
+- ✅ Query Optimization, EXPLAIN, Transactions, ACID
+- ✅ JPA → Native Queries / JPQL
 
 ---
 
@@ -36,26 +36,26 @@ Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** ba
 
 #### 📐 Microservices
 
-* ✅ REST APIs with Spring Boot for each service
-* ✅ API Gateway (Spring Cloud Gateway or Zuul)
-* ✅ Service Registry (Eureka)
-* ✅ Load Balancing (Ribbon)
-* ✅ Config Server (Spring Cloud Config)
+- ✅ REST APIs with Spring Boot for each service
+- ✅ API Gateway (Spring Cloud Gateway or Zuul)
+- ✅ Service Registry (Eureka)
+- ✅ Load Balancing (Ribbon)
+- ✅ Config Server (Spring Cloud Config)
 
 #### 🏗️ Communication Between Services
 
-* ✅ REST
-* ✅ Asynchronous: Kafka / RabbitMQ
-* ✅ Feign Client
+- ✅ REST
+- ✅ Asynchronous: Kafka / RabbitMQ
+- ✅ Feign Client
 
 #### 🧠 High-Level System Design
 
-* ✅ Authentication System (OAuth, JWT)
-* ✅ Rate Limiting, Throttling
-* ✅ Event-Driven Architecture
-* ✅ Distributed Caching with Redis
-* ✅ Circuit Breaker (Resilience4j)
-* ✅ Scalability Patterns
+- ✅ Authentication System (OAuth, JWT)
+- ✅ Rate Limiting, Throttling
+- ✅ Event-Driven Architecture
+- ✅ Distributed Caching with Redis
+- ✅ Circuit Breaker (Resilience4j)
+- ✅ Scalability Patterns
 
 ---
 
@@ -63,36 +63,36 @@ Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** ba
 
 #### ⚙️ Build, Dependency, Environment
 
-* ✅ Maven or Gradle
-* ✅ Docker (Containerization)
-* ✅ Docker Compose
-* ✅ Kubernetes (optional but highly valued)
+- ✅ Maven or Gradle
+- ✅ Docker (Containerization)
+- ✅ Docker Compose
+- ✅ Kubernetes (optional but highly valued)
 
 #### ☁️ Cloud Platforms
 
-* ✅ AWS: EC2, S3, RDS, CloudWatch, Lambda
-* ✅ Or Azure / GCP (choose one)
+- ✅ AWS: EC2, S3, RDS, CloudWatch, Lambda
+- ✅ Or Azure / GCP (choose one)
 
 #### 💣 Logging, Monitoring, CI/CD
 
-* ✅ Logging: Logback, SLF4J, ELK Stack (ElasticSearch + Logstash + Kibana)
-* ✅ Monitoring: Prometheus + Grafana
-* ✅ CI/CD: Jenkins, GitHub Actions, GitLab CI
-* ✅ Testing:
+- ✅ Logging: Logback, SLF4J, ELK Stack (ElasticSearch + Logstash + Kibana)
+- ✅ Monitoring: Prometheus + Grafana
+- ✅ CI/CD: Jenkins, GitHub Actions, GitLab CI
+- ✅ Testing:
 
-  * Unit Testing: JUnit 5, Mockito
-  * Integration Testing: TestContainers, @SpringBootTest
-  * Load Testing: JMeter, Gatling
+  - Unit Testing: JUnit 5, Mockito
+  - Integration Testing: TestContainers, @SpringBootTest
+  - Load Testing: JMeter, Gatling
 
 ---
 
 ### 🧪 4. **Testing & Code Quality**
 
-* ✅ Clean Code Principles (Uncle Bob)
-* ✅ SOLID, DRY, KISS, YAGNI
-* ✅ Static Code Analysis: SonarQube
-* ✅ Unit + Integration + Contract Testing
-* ✅ API Testing: Postman + Newman
+- ✅ Clean Code Principles (Uncle Bob)
+- ✅ SOLID, DRY, KISS, YAGNI
+- ✅ Static Code Analysis: SonarQube
+- ✅ Unit + Integration + Contract Testing
+- ✅ API Testing: Postman + Newman
 
 ---
 
@@ -115,24 +115,24 @@ Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** ba
 
 ### 🧠 6. **Master-Level Topics (To Reach Universe Creator Tag)**
 
-* ✅ System Design (High-Level + Low-Level) → Grokking + YouTube + Practice
-* ✅ Data Structures & Algorithms → LeetCode + Competitive Coding
-* ✅ OS, DBMS, CN, SD (CS Fundamentals)
-* ✅ Security: SSL, CSRF, XSS, CORS, SQL Injection
-* ✅ Distributed Systems: CAP Theorem, Consistency Models
-* ✅ API Rate Limiting, Caching Strategies, CDN Concepts
-* ✅ Multi-tenant architecture, Horizontal Scaling
-* ✅ Serverless Architecture
+- ✅ System Design (High-Level + Low-Level) → Grokking + YouTube + Practice
+- ✅ Data Structures & Algorithms → LeetCode + Competitive Coding
+- ✅ OS, DBMS, CN, SD (CS Fundamentals)
+- ✅ Security: SSL, CSRF, XSS, CORS, SQL Injection
+- ✅ Distributed Systems: CAP Theorem, Consistency Models
+- ✅ API Rate Limiting, Caching Strategies, CDN Concepts
+- ✅ Multi-tenant architecture, Horizontal Scaling
+- ✅ Serverless Architecture
 
 ---
 
 ### 🎯 7. **Soft Skills + Resume Building**
 
-* ✅ GitHub Projects → README, Architecture Diagram
-* ✅ Technical Writing → Medium, Dev.to
-* ✅ LinkedIn → Impact-based posts
-* ✅ Open Source Contributions → Spring, Apache, etc.
-* ✅ Mock Interviews → System Design + DSA + Backend Round
+- ✅ GitHub Projects → README, Architecture Diagram
+- ✅ Technical Writing → Medium, Dev.to
+- ✅ LinkedIn → Impact-based posts
+- ✅ Open Source Contributions → Spring, Apache, etc.
+- ✅ Mock Interviews → System Design + DSA + Backend Round
 
 ---
 
@@ -140,12 +140,12 @@ Abhishek, tumhara goal **“Tagda Expert Mastery Level Software Engineer”** ba
 
 ✅ Must Include:
 
-* 🌐 Live URL + GitHub Link
-* 🧠 Project Documentation (System Design Diagram, Flowcharts)
-* 📦 Dockerized Projects (Ready to Deploy)
-* 🧪 Tests Coverage Badge
-* 💬 Chatbot integration (optional)
-* 📊 Monitoring Dashboard (Grafana)
+- 🌐 Live URL + GitHub Link
+- 🧠 Project Documentation (System Design Diagram, Flowcharts)
+- 📦 Dockerized Projects (Ready to Deploy)
+- 🧪 Tests Coverage Badge
+- 💬 Chatbot integration (optional)
+- 📊 Monitoring Dashboard (Grafana)
 
 ---
 
@@ -204,8 +204,8 @@ By following this roadmap seriously for 6–12 months, with at least 4-5 **produ
 
 If you want, I’ll make:
 
-* ✅ A **PDF version** of this roadmap
-* ✅ A **Notion/Google Sheet tracker**
-* ✅ Step-by-step **timeline guide**
+- ✅ A **PDF version** of this roadmap
+- ✅ A **Notion/Google Sheet tracker**
+- ✅ Step-by-step **timeline guide**
 
 **Just say the word.**
